@@ -1,0 +1,9 @@
+{
+  "name": "trivia-b0-t",
+  "version": "0.0.0",
+  "description": "TriviaB0T",
+  "main": "app.js",
+  "author": {
+    "name": "tmtab"
+  }
+}
