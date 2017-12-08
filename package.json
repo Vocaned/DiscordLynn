@@ -4,8 +4,11 @@
   "description": "TriviaB0T",
   "main": "app.js",
   "author": {
-    "name": "tmtab"
+    "name": "Fam0r"
   },
+  "scripts": {
+	"start": "node app.js"
+	},
   "dependencies": {
     "discord.js": "^11.2.1",
     "moment": "^2.19.3",
